@@ -1,0 +1,16 @@
+.red p {
+    border: 2px solid red;
+    background-color: rgb(235, 211, 211);
+    margin-right: 25px;
+}
+
+.blue p {
+    border: 2px solid rgb(7, 0, 0);
+    background-color: rgb(191, 191, 221);
+    width: 50%;
+}
+
+
+.red {
+    display: green; 
+}
