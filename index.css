@@ -24,3 +24,10 @@ p img:hover{
     box-shadow: 4px 5px 3px grey;
     border-radius: 50%;
 }
+
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
