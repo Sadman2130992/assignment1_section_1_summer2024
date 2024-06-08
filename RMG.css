@@ -24,3 +24,17 @@ p img:hover{
     box-shadow: 4px 5px 3px grey;
     border-radius: 50%;
 }
+.handlee-regular {
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .bottom p {
+    border: 2px solid lightcoral;
+    background-color: rgb(165, 233, 235);
+    box-shadow: 4px 6px 3px rgb(20, 6, 213);
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}

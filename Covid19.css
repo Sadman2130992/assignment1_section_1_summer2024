@@ -1,0 +1,40 @@
+p  {
+    width:50%;
+    border: 2px solid  rgb(72, 180, 188); 
+
+    box-shadow: 4px 6px 3px rgb(231, 99, 5);
+    border-radius: 8px;
+    margin: 15px;
+    padding: 25px; 
+}
+
+.khand-ligh {
+    font-family: "Khand", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .khand-regular {
+    font-family: "Khand", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .khand-medium {
+    font-family: "Khand", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .khand-semibold {
+    font-family: "Khand", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .khand-bold {
+    font-family: "Khand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
